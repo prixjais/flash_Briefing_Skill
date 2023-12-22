@@ -1,0 +1,15 @@
+<?xml version=“1.0” encoding=“UTF-8" ?>
+<rss version=“2.0”>
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622d85</guid>
+      <title>A week in review, April third</title>
+      <link>https://developer.amazon.com/public/community/blog</link>
+      <pubDate>Sun, 22 Dec 2023 11:25:10 +0000</pubDate>
+      <description>
+        Here is an R.S.S. feed designed to test the Alexa simulator. Let’s hope this works this time as well.
+      </description>
+     </item>
+  </channel>
+</rss>
